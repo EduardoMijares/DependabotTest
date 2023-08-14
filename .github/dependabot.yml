@@ -4,7 +4,7 @@
 # https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
 
 # Basic `dependabot.yml` file with
-# minimum configuration for two package managers
+# minimum configuration for two package managers  
 
 version: 1
 updates:
